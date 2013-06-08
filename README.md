@@ -1,8 +1,8 @@
 areva
 =====
 
-Automated Real Estate Valuation App (Android app)
-
+Automated Real Estate Valuation App
+===
 
 Project Description:
 
